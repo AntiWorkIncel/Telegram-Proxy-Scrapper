@@ -15,3 +15,5 @@ This Telegram bot takes a user's text messages and turns them into stylish image
 4. Once the bot is created, BotFather will give you a token. This token is used to authenticate and interact with the Telegram API.
 
 Remember to use the Secrets pane to set the bot and try it out yourself.
+
+[![Try with Replit Badge](https://replit.com/badge?caption=Try%20with%20Replit)](https://github.com/AntiWorkIncel/Telegram-Proxy-Scrapper)
