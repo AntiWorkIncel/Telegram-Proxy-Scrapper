@@ -16,4 +16,4 @@ This Telegram bot takes a user's text messages and turns them into stylish image
 
 Remember to use the Secrets pane to set the bot and try it out yourself.
 
-[![Try with Replit Badge](https://replit.com/badge?caption=Try%20with%20Replit)](https://github.com/AntiWorkIncel/Telegram-Proxy-Scrapper)
+[![Try with Replit Badge](https://replit.com/badge?caption=Try%20with%20Replit)](https://repl.it/github/AntiWorkIncel/Telegram-Proxy-Scrapper)
