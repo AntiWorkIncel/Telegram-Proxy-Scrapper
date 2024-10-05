@@ -1,6 +1,7 @@
-# Stylish Text Telegram Bot
+# Telegram Proxy Scrapper Bot
 
-This Telegram bot takes a user's text messages and turns them into stylish images. Utilizing Python, the `python-telegram-bot` library, and PIL for image manipulation, it offers a quick and interactive way to generate content.
+Bot no telegram que retorna proxies Socks5 e MTProto de duas API. O bot indexa as listas de proxies pelo menor ping.
+Fiz este bot para não precisar mais ficar entrando em grupos de proxy no Telegram.
 
 ## Requirements
 - Python 3.x
