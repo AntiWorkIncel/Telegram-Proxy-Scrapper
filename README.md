@@ -22,10 +22,6 @@ bc1qrek6np43y9gmnq02zdc72awrsga4mv7ysl6d8aer2hcwwm73t8yslhu30s
 
 83si1JPoiyB8CpRxUjmkXRBsFaL4DndBtcoCzDysL3BjDMicPKWf7cXXZbVFkuTKHBSsgcKYDtSokBrHJZ5L5oud81nP5XM
 
-![Litecoin](https://img.shields.io/badge/Litecoin-A6A9AA?style=for-the-badge&logo=Litecoin&logoColor=white)
-
-ltc1qpax8azx06cqxhd807qc58qjwnhwlfyvgj95uge
-
 ![Dash](https://img.shields.io/badge/dash-008DE4?style=for-the-badge&logo=dash&logoColor=white)
 
 XuTDrcVfaqwfrMdkqcH9kzd37YSZSdhTkZ
@@ -34,24 +30,21 @@ XuTDrcVfaqwfrMdkqcH9kzd37YSZSdhTkZ
 
 u1zxyx4uhkumh0upequwy9kzjl3xq8ps6cfs3mg5k5jzk746g9urwte4lcexzszz4xeudpmspwpc0qutamhkkttdxz7fqm7a043dlger0r2ps09j5u8sf4n6m0pgdshy0kf6m07mmzuef74y8pfaxcvwynunf4e3dhey93qaha5y4cwms3dl6cpman0j4759dal3j34nntfna3vtddxuj
 
-![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=Ethereum&logoColor=white)
+![Litecoin](https://img.shields.io/badge/Litecoin-A6A9AA?style=for-the-badge&logo=Litecoin&logoColor=white)
 
-0x6848FcF06ab5847dCe80F41D60C3671058EE1C61
+ltc1qpax8azx06cqxhd807qc58qjwnhwlfyvgj95uge
 
 ![Bitcoin Cash](https://img.shields.io/badge/Bitcoin%20Cash-0AC18E?style=for-the-badge&logo=Bitcoin%20Cash&logoColor=white)
 
 15QdXkVGsXhxRtVkb1u2US21hRksMYrXN6
 
-![Tether](https://img.shields.io/badge/tether-168363?style=for-the-badge&logo=tether&logoColor=white)
+![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=Ethereum&logoColor=white)
 
-0x6848FcF06ab5847dCe80F41D60C3671058EE1C61
+![Tether](https://img.shields.io/badge/tether-168363?style=for-the-badge&logo=tether&logoColor=white)
 
 ![Chainlink](https://img.shields.io/badge/Chainlink-375BD2?style=for-the-badge&logo=Chainlink&logoColor=white)
 
 0x6848FcF06ab5847dCe80F41D60C3671058EE1C61
-
-
-
 
 ## Requirements
 - Python 3.x
@@ -68,4 +61,3 @@ u1zxyx4uhkumh0upequwy9kzjl3xq8ps6cfs3mg5k5jzk746g9urwte4lcexzszz4xeudpmspwpc0qut
 Remember to use the Secrets pane to set the bot and try it out yourself.
 
 [![Try with Replit Badge](https://replit.com/badge?caption=Try%20with%20Replit)](https://repl.it/github/AntiWorkIncel/Telegram-Proxy-Scrapper)
-
