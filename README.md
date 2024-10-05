@@ -3,9 +3,13 @@
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)
 
 Bot no telegram que retorna proxies SOCKS5 e MTProto de duas API. O bot indexa as listas de proxies pelo menor ping.
+
 Fiz este bot para não precisar mais ficar entrando em grupos de proxy no Telegram.
 
+--------------------------------------------------------------------------------------------------------------------------
+
 Bot on Telegram that returns SOCKS5 and MTProto proxies from two APIs. The bot indexes the proxy lists by the lowest ping. 
+
 I made this bot so I no longer need to join proxy groups on Telegram.
 
 # Doe/Donate:
