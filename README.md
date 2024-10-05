@@ -28,7 +28,7 @@ XuTDrcVfaqwfrMdkqcH9kzd37YSZSdhTkZ
 
 ![Z Cash](https://img.shields.io/badge/Zcash-F4B728?style=for-the-badge&logo=zcash&logoColor=white)
 
-u1zxyx4uhkumh0upequwy9kzjl3xq8ps6cfs3mg5k5jzk746g9urwte4lcexzszz4xeudpmspwpc0qutamhkkttdxz7fqm7a043dlger0r2ps09j5u8sf4n6m0pgdshy0kf6m07mmzuef74y8pfaxcvwynunf4e3dhey93qaha5y4cwms3dl6cpman0j4759dal3j34nntfna3vtddxuj
+zs1ucmw04kz5n4fsspm5xphjx8r7a9m62a0hsu8r0dk35y47xznqn6vq73ma44nr0r2emn6qcym363
 
 ![Litecoin](https://img.shields.io/badge/Litecoin-A6A9AA?style=for-the-badge&logo=Litecoin&logoColor=white)
 
