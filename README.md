@@ -1,6 +1,6 @@
 # Telegram Proxy Scrapper Bot
 
-Bot no telegram que retorna proxies Socks5 e MTProto de duas API. O bot indexa as listas de proxies pelo menor ping.
+Bot no telegram que retorna proxies SOCKS5 e MTProto de duas API. O bot indexa as listas de proxies pelo menor ping.
 Fiz este bot para não precisar mais ficar entrando em grupos de proxy no Telegram.
 
 ## Requirements
