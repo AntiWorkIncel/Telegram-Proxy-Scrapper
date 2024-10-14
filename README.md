@@ -42,6 +42,8 @@ ltc1qpax8azx06cqxhd807qc58qjwnhwlfyvgj95uge
 
 ![Tether](https://img.shields.io/badge/tether-168363?style=for-the-badge&logo=tether&logoColor=white)
 
+![Chainlink](https://img.shields.io/badge/Chainlink-375BD2?style=for-the-badge&logo=Chainlink&logoColor=white)
+
 0x6848FcF06ab5847dCe80F41D60C3671058EE1C61
 
 Or you can use my referral/clique para usar meu código de referência:
