@@ -46,6 +46,10 @@ ltc1qpax8azx06cqxhd807qc58qjwnhwlfyvgj95uge
 
 0x6848FcF06ab5847dCe80F41D60C3671058EE1C61
 
+Or you can use my referral/clique para usar meu código de referência:
+
+<a href="https://airvpn.org/?referred_by=722312" title="Air VPN - The air to breathe the real Internet"><img src="https://airvpn.org/images/promotional/banner_641x91.gif" alt="Air VPN - The air to breathe the real Internet"></a>
+
 ## Requirements
 - Python 3.x
 - `python-telegram-bot` library
