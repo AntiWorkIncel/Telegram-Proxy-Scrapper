@@ -1,6 +1,6 @@
 # Telegram Proxy Scrapper Bot
 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white) [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)
 
 Bot no telegram que retorna proxies SOCKS5 e MTProto de duas API. O bot indexa as listas de proxies pelo menor ping.
 
@@ -65,3 +65,5 @@ Or you can use my referral/clique para usar meu código de referência:
 Remember to use the Secrets pane to set the bot and try it out yourself.
 
 [![Try with Replit Badge](https://replit.com/badge?caption=Try%20with%20Replit)](https://repl.it/github/AntiWorkIncel/Telegram-Proxy-Scrapper)
+
+[![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
