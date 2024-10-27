@@ -54,9 +54,7 @@ ltc1qpax8azx06cqxhd807qc58qjwnhwlfyvgj95uge
 
 GBXPMALWU7EBZNA6AZKCSNLNVOYCWQVQBT4FDRX2MEGXOPYJGHFBX2WS
 
---------------------------------------------------------------------------------------------------------------------------
-
-Or you can use my referral/clique para usar meu código de referência:
+# Click below to use my referral code/Clique abaixo para usar meu código de referência:
 
 <a href="https://airvpn.org/?referred_by=722312" title="Air VPN - The air to breathe the real Internet"><img src="https://airvpn.org/images/promotional/banner_641x91.gif" alt="Air VPN - The air to breathe the real Internet"></a>
 
