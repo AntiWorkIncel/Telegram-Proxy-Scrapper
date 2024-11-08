@@ -36,6 +36,8 @@ I made this bot so I no longer need to join proxy groups on Telegram.
 
 [![Tether](https://img.shields.io/badge/Tether-0x6848FcF06ab5847dCe80F41D60C3671058EE1C61-50AF95?style=for-the-badge&logo=tether&logoColor=white)](https://etherscan.io/address/0x6848FcF06ab5847dCe80F41D60C3671058EE1C61)
 
+[![TONcoin](https://img.shields.io/badge/TONcoin-UQC006wiGYUtU3SpiCa-GJUTq37UYaDvqJaJtBrbvLPL0IBo?style=for-the-badge&logo=ton&logoColor=white)](https://tonscan.org/address/UQC006wiGYUtU3SpiCa-GJUTq37UYaDvqJaJtBrbvLPL0IBo)
+
 [![Zcash](https://img.shields.io/badge/Zcash-zs1ucmw04kz5n4fsspm5xphjx8r7a9m62a0hsu8r0dk35y47xznqn6vq73ma44nr0r2emn6qcym363-F4B728?style=for-the-badge&logo=zcash&logoColor=black)](https://explorer.zcha.in/accounts/zs1ucmw04kz5n4fsspm5xphjx8r7a9m62a0hsu8r0dk35y47xznqn6vq73ma44nr0r2emn6qcym363)
 
 # Click below to use my referral code/Clique abaixo para usar meu código de referência:
