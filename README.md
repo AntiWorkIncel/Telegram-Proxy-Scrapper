@@ -28,7 +28,7 @@ I made this bot so I no longer need to join proxy groups on Telegram.
 
 [![Litecoin](https://img.shields.io/badge/Litecoin-ltc1qpax8azx06cqxhd807qc58qjwnhwlfyvgj95uge-A6A9AA?style=for-the-badge&logo=litecoin&logoColor=white)](https://blockchair.com/litecoin/address/ltc1qpax8azx06cqxhd807qc58qjwnhwlfyvgj95uge)
 
-[![Monero](https://img.shields.io/badge/Monero-83si1JPoiyB8CpRxUjmkXRBsFaL4DndBtcoCzDysL3BjDMicPKWf7cXXZbVFkuTKHBSsgcKYDtSokBrHJZ5L5oud81nP5XM-F60?style=for-the-badge&logo=monero&logoColor=white)](https://moneroblocks.info/address/83si1JPoiyB8CpRxUjmkXRBsFaL4DndBtcoCzDysL3BjDMicPKWf7cXXZbVFkuTKHBSsgcKYDtSokBrHJZ5L5oud81nP5XM)
+[![Monero](https://img.shields.io/badge/Monero-83si1JPoiyB8CpRxUjmkXRBsFaL4DndBtcoCzDysL3BjDMicPKWf7cXXZbVFkuTKHBSsgcKYDtSokBrHJZ5L5oud81nP5XM-9A8B7B?style=for-the-badge&logo=monero&logoColor=white)](https://moneroexplorer.org/search?value=83si1JPoiyB8CpRxUjmkXRBsFaL4DndBtcoCzDysL3BjDMicPKWf7cXXZbVFkuTKHBSsgcKYDtSokBrHJZ5L5oud81nP5XM)
 
 [![Polkadot](https://img.shields.io/badge/Polkadot-16Dbrrz68CXS5hGFD8iYmLSUtDf7wfyzkpmzqZ58FcdX8ZYR-E6007A?style=for-the-badge&logo=polkadot&logoColor=white)](https://polkascan.io/pre/addresses/16Dbrrz68CXS5hGFD8iYmLSUtDf7wfyzkpmzqZ58FcdX8ZYR)
 
