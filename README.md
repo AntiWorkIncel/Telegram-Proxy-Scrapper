@@ -14,7 +14,7 @@ I made this bot so I no longer need to join proxy groups on Telegram.
 
 # Doe/Donate:
 
-[![AMP](https://img.shields.io/badge/AMP-0x39586560E53DCA08d124B0e064f3c62C5d3099da-500050?style=for-the-badge&logo=amp&logoColor=white)](0x39586560E53DCA08d124B0e064f3c62C5d3099da)
+[![AMP](https://img.shields.io/badge/AMP-0x39586560E53DCA08d124B0e064f3c62C5d3099da-500050?style=for-the-badge&logo=amp&logoColor=white)](https://etherscan.io/address/0x39586560E53DCA08d124B0e064f3c62C5d3099da)
 
 [![Bitcoin](https://img.shields.io/badge/Bitcoin-bc1qrek6np43y9gmnq02zdc72awrsga4mv7ysl6d8aer2hcwwm73t8yslhu30s-000?style=for-the-badge&logo=bitcoin&logoColor=white)](https://www.blockchain.com/btc/address/bc1qrek6np43y9gmnq02zdc72awrsga4mv7ysl6d8aer2hcwwm73t8yslhu30s)
 
@@ -34,7 +34,7 @@ I made this bot so I no longer need to join proxy groups on Telegram.
 
 [![Stellar](https://img.shields.io/badge/Stellar-GBXPMALWU7EBZNA6AZKCSNLNVOYCWQVQBT4FDRX2MEGXOPYJGHFBX2WS-7D00FF?style=for-the-badge&logo=stellar&logoColor=white)](https://stellar.expert/explorer/public/account/GBXPMALWU7EBZNA6AZKCSNLNVOYCWQVQBT4FDRX2MEGXOPYJGHFBX2WS)
 
-[![Tether](https://img.shields.io/badge/Tether-0x6848FcF06ab5847dCe80F41D60C3671058EE1C61-50AF95?style=for-the-badge&logo=tether&logoColor=white)](https://www.omniexplorer.info/address/0x6848FcF06ab5847dCe80F41D60C3671058EE1C61)
+[![Tether](https://img.shields.io/badge/Tether-0x6848FcF06ab5847dCe80F41D60C3671058EE1C61-50AF95?style=for-the-badge&logo=tether&logoColor=white)](https://etherscan.io/address/0x6848FcF06ab5847dCe80F41D60C3671058EE1C61)
 
 [![Zcash](https://img.shields.io/badge/Zcash-zs1ucmw04kz5n4fsspm5xphjx8r7a9m62a0hsu8r0dk35y47xznqn6vq73ma44nr0r2emn6qcym363-F4B728?style=for-the-badge&logo=zcash&logoColor=black)](https://explorer.zcha.in/accounts/zs1ucmw04kz5n4fsspm5xphjx8r7a9m62a0hsu8r0dk35y47xznqn6vq73ma44nr0r2emn6qcym363)
 
