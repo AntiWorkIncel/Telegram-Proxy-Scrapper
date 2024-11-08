@@ -22,7 +22,7 @@ I made this bot so I no longer need to join proxy groups on Telegram.
 
 [![Chainlink](https://img.shields.io/badge/Chainlink-0x6848FcF06ab5847dCe80F41D60C3671058EE1C61-375BD2?style=for-the-badge&logo=chainlink&logoColor=white)](https://etherscan.io/address/0x6848FcF06ab5847dCe80F41D60C3671058EE1C61)
 
-[![Dash](https://img.shields.io/badge/Dash-XuTDrcVfaqwfrMdkqcH9kzd37YSZSdhTkZ-008CE7?style=for-the-badge&logo=dash&logoColor=white)](https://www.dash.org/insight/address/XuTDrcVfaqwfrMdkqcH9kzd37YSZSdhTkZ)
+[![Dash](https://img.shields.io/badge/Dash-XuTDrcVfaqwfrMdkqcH9kzd37YSZSdhTkZ-008CE7?style=for-the-badge&logo=dash&logoColor=white)](https://explorer.dash.org/insight/address/XuTDrcVfaqwfrMdkqcH9kzd37YSZSdhTkZ)
 
 [![Ethereum](https://img.shields.io/badge/Ethereum-0x6848FcF06ab5847dCe80F41D60C3671058EE1C61-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white)](https://etherscan.io/address/0x6848FcF06ab5847dCe80F41D60C3671058EE1C61)
 
@@ -30,7 +30,7 @@ I made this bot so I no longer need to join proxy groups on Telegram.
 
 [![Monero](https://img.shields.io/badge/Monero-83si1JPoiyB8CpRxUjmkXRBsFaL4DndBtcoCzDysL3BjDMicPKWf7cXXZbVFkuTKHBSsgcKYDtSokBrHJZ5L5oud81nP5XM-9A8B7B?style=for-the-badge&logo=monero&logoColor=white)](https://moneroexplorer.org/search?value=83si1JPoiyB8CpRxUjmkXRBsFaL4DndBtcoCzDysL3BjDMicPKWf7cXXZbVFkuTKHBSsgcKYDtSokBrHJZ5L5oud81nP5XM)
 
-[![Polkadot](https://img.shields.io/badge/Polkadot-16Dbrrz68CXS5hGFD8iYmLSUtDf7wfyzkpmzqZ58FcdX8ZYR-E6007A?style=for-the-badge&logo=polkadot&logoColor=white)](https://polkascan.io/pre/addresses/16Dbrrz68CXS5hGFD8iYmLSUtDf7wfyzkpmzqZ58FcdX8ZYR)
+[![Polkadot](https://img.shields.io/badge/Polkadot-16Dbrrz68CXS5hGFD8iYmLSUtDf7wfyzkpmzqZ58FcdX8ZYR-E6007A?style=for-the-badge&logo=polkadot&logoColor=white)](https://polkadot.subscan.io/account/16Dbrrz68CXS5hGFD8iYmLSUtDf7wfyzkpmzqZ58FcdX8ZYR)
 
 [![Stellar](https://img.shields.io/badge/Stellar-GBXPMALWU7EBZNA6AZKCSNLNVOYCWQVQBT4FDRX2MEGXOPYJGHFBX2WS-7D00FF?style=for-the-badge&logo=stellar&logoColor=white)](https://stellar.expert/explorer/public/account/GBXPMALWU7EBZNA6AZKCSNLNVOYCWQVQBT4FDRX2MEGXOPYJGHFBX2WS)
 
