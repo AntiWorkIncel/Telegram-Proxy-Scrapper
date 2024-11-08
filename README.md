@@ -32,13 +32,13 @@ I made this bot so I no longer need to join proxy groups on Telegram.
 
 [![Polkadot](https://img.shields.io/badge/Polkadot-16Dbrrz68CXS5hGFD8iYmLSUtDf7wfyzkpmzqZ58FcdX8ZYR-E6007A?style=for-the-badge&logo=polkadot&logoColor=white)](https://polkadot.subscan.io/account/16Dbrrz68CXS5hGFD8iYmLSUtDf7wfyzkpmzqZ58FcdX8ZYR)
 
-[![Stellar](https://img.shields.io/badge/Stellar-GBXPMALWU7EBZNA6AZKCSNLNVOYCWQVQBT4FDRX2MEGXOPYJGHFBX2WS-7D00FF?style=for-the-badge&logo=stellar&logoColor=white)](https://stellar.expert/explorer/public/account/GBXPMALWU7EBZNA6AZKCSNLNVOYCWQVQBT4FDRX2MEGXOPYJGHFBX2WS)
+![Stellar](https://img.shields.io/badge/Stellar-GBXPMALWU7EBZNA6AZKCSNLNVOYCWQVQBT4FDRX2MEGXOPYJGHFBX2WS-7D00FF?style=for-the-badge&logo=stellar&logoColor=white)
 
 [![Tether](https://img.shields.io/badge/Tether-0x6848FcF06ab5847dCe80F41D60C3671058EE1C61-50AF95?style=for-the-badge&logo=tether&logoColor=white)](https://etherscan.io/address/0x6848FcF06ab5847dCe80F41D60C3671058EE1C61)
 
 [![TONcoin](https://img.shields.io/badge/TONcoin-UQC006wiGYUtU3SpiCa-GJUTq37UYaDvqJaJtBrbvLPL0IBo?style=for-the-badge&logo=ton&logoColor=white)](https://tonscan.org/address/UQC006wiGYUtU3SpiCa-GJUTq37UYaDvqJaJtBrbvLPL0IBo)
 
-[![Zcash](https://img.shields.io/badge/Zcash-zs1ucmw04kz5n4fsspm5xphjx8r7a9m62a0hsu8r0dk35y47xznqn6vq73ma44nr0r2emn6qcym363-F4B728?style=for-the-badge&logo=zcash&logoColor=black)](https://explorer.zcha.in/accounts/zs1ucmw04kz5n4fsspm5xphjx8r7a9m62a0hsu8r0dk35y47xznqn6vq73ma44nr0r2emn6qcym363)
+![Zcash](https://img.shields.io/badge/Zcash-zs1ucmw04kz5n4fsspm5xphjx8r7a9m62a0hsu8r0dk35y47xznqn6vq73ma44nr0r2emn6qcym363-F4B728?style=for-the-badge&logo=zcash&logoColor=black)
 
 # Click below to use my referral code/Clique abaixo para usar meu código de referência:
 
