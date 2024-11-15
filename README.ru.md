@@ -13,7 +13,7 @@
 
 Я создал этого бота, поэтому мне больше не нужно присоединяться к прокси-группам в Telegram.
 
-# Доу:
+# Пожертвовать:
 
 [![AMP](https://img.shields.io/badge/AMP-0x39586560E53DCA08d124B0e064f3c62C5d3099da-500050?style=for-the-badge&logo=amp&logoColor=white)](https://etherscan.io/address/0x39586560E53DCA08d124B0e064f3c62C5d3099da)
 
