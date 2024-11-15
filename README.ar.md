@@ -1,9 +1,9 @@
 [![en](https://img.shields.io/badge/lang-en-blue.svg)](https://github.com/Banhogato/Telegram-Proxy-Scrapper/edit/main/README.md)
 [![pt-br](https://img.shields.io/badge/lang-pt--br-green.svg)](https://github.com/Banhogato/Telegram-Proxy-Scrapper/blob/main/README.pt-br.md)
-[![es](https://img.shields.io/badge/lang-es-yellow.svg)]()
+[![es](https://img.shields.io/badge/lang-es-yellow.svg)](https://github.com/Banhogato/Telegram-Proxy-Scrapper/blob/main/README.es.md)
 [![ru](https://img.shields.io/badge/lang-ru-white.svg)](https://github.com/Banhogato/Telegram-Proxy-Scrapper/blob/main/README.ru.md)
-[![cn](https://img.shields.io/badge/lang-cn-red.svg)]()
-[![ar](https://img.shields.io/badge/lang-ar-black.svg)]()
+[![cn](https://img.shields.io/badge/lang-cn-red.svg)](https://github.com/Banhogato/Telegram-Proxy-Scrapper/blob/main/README.cn.md)
+[![ar](https://img.shields.io/badge/lang-ar-black.svg)](https://github.com/Banhogato/Telegram-Proxy-Scrapper/blob/main/README.ar.md)
 
 
 # Telegram Proxy Scrapper
