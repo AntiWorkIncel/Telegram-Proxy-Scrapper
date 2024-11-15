@@ -2,17 +2,11 @@
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)
 
-Bot no telegram que retorna proxies SOCKS5 e MTProto de duas API. O bot indexa as listas de proxies pelo menor ping.
-
-Fiz este bot para não precisar mais ficar entrando em grupos de proxy no Telegram.
-
---------------------------------------------------------------------------------------------------------------------------
-
 Bot on Telegram that returns SOCKS5 and MTProto proxies from two APIs. The bot indexes the proxy lists by the lowest ping. 
 
 I made this bot so I no longer need to join proxy groups on Telegram.
 
-# Doe/Donate:
+# Donate:
 
 [![AMP](https://img.shields.io/badge/AMP-0x39586560E53DCA08d124B0e064f3c62C5d3099da-500050?style=for-the-badge&logo=amp&logoColor=white)](https://etherscan.io/address/0x39586560E53DCA08d124B0e064f3c62C5d3099da)
 
@@ -40,7 +34,7 @@ I made this bot so I no longer need to join proxy groups on Telegram.
 
 [![Zcash](https://img.shields.io/badge/Zcash-zs1ucmw04kz5n4fsspm5xphjx8r7a9m62a0hsu8r0dk35y47xznqn6vq73ma44nr0r2emn6qcym363-F4B728?style=for-the-badge&logo=zcash&logoColor=black)](https://blockchair.com/zcash/address/zs1ucmw04kz5n4fsspm5xphjx8r7a9m62a0hsu8r0dk35y47xznqn6vq73ma44nr0r2emn6qcym363)
 
-# Click below to use my referral code/Clique abaixo para usar meu código de referência:
+# Click below to use my referral code:
 
 <a href="https://airvpn.org/?referred_by=722312" title="Air VPN - The air to breathe the real Internet"><img src="https://airvpn.org/images/promotional/banner_641x91.gif" alt="Air VPN - The air to breathe the real Internet"></a>
 
