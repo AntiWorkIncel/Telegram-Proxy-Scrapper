@@ -45,6 +45,8 @@ Telegram 上的机器人从两个 API 返回 SOCKS5 和 MTProto 代理。机器�
 
 <a href="https://airvpn.org/?referred_by=722312" title="Air VPN - The air to breathe the real Internet"><img src="https://airvpn.org/images/promotional/banner_641x91.gif" alt="Air VPN - The air to breathe the real Internet"></a>
 
+https://windscribe.com/yo/m4h56k39
+
 ## 要求
 - Python 3.x
 - `python-telegram-bot` library
