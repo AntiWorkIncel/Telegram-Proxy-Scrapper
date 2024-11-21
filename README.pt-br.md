@@ -41,9 +41,11 @@ Fiz esse bot para não precisar mais entrar em grupos de proxy no Telegram.
 
 [![Zcash](https://img.shields.io/badge/Zcash-zs1ucmw04kz5n4fsspm5xphjx8r7a9m62a0hsu8r0dk35y47xznqn6vq73ma44nr0r2emn6qcym363-F4B728?style=for-the-badge&logo=zcash&logoColor=black)](https://blockchair.com/zcash/address/zs1ucmw04kz5n4fsspm5xphjx8r7a9m62a0hsu8r0dk35y47xznqn6vq73ma44nr0r2emn6qcym363)
 
-# Clique abaixo para usar meu código de referência:
+# Clique abaixo para usar meus códigos de referência:
 
 <a href="https://airvpn.org/?referred_by=722312" title="Air VPN - The air to breathe the real Internet"><img src="https://airvpn.org/images/promotional/banner_641x91.gif" alt="Air VPN - The air to breathe the real Internet"></a>
+
+https://windscribe.com/yo/m4h56k39
 
 ## Requerimentos
 - Python 3.x
