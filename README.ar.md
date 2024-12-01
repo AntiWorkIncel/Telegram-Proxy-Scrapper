@@ -7,8 +7,6 @@
 
 # Telegram Proxy Scrapper 🤖
 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)
-
 روبوت على Telegram يقوم بإرجاع وكلاء SOCKS5 وMTProto من واجهتي برمجة التطبيقات. يقوم الروبوت بفهرسة قوائم الوكيل حسب أقل اختبار ping.
 لقد أنشأت هذا الروبوت، لذا لم أعد بحاجة إلى الانضمام إلى مجموعات الوكيل على Telegram.
 
