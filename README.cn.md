@@ -7,8 +7,6 @@
 
 # Telegram Proxy Scrapper 🤖
 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)
-
 Telegram 上的机器人从两个 API 返回 SOCKS5 和 MTProto 代理。机器人按最低 ping 值对代理列表进行索引。
 
 我制作了这个机器人，这样我就不再需要加入 Telegram 上的代理组了。
