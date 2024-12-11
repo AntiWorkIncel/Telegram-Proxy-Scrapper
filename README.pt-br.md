@@ -13,7 +13,7 @@ Bot no Telegram que retorna proxies SOCKS5 e MTProto de duas APIs. O bot indexa 
 
 Fiz esse bot para não precisar mais entrar em grupos de proxy no Telegram.
 
-Você pode usá-lo tanto no Replit, quanto localmente.
+Você pode usá-lo tanto no Replit quanto localmente.
 
 # Doe:
 
