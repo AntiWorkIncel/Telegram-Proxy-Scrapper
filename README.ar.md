@@ -9,7 +9,7 @@
 
 روبوت على Telegram يقوم بإرجاع وكلاء SOCKS5 وMTProto من واجهتي برمجة التطبيقات. يقوم الروبوت بفهرسة قوائم الوكيل حسب أقل اختبار ping.
 لقد أنشأت هذا الروبوت، لذا لم أعد بحاجة إلى الانضمام إلى مجموعات الوكيل على Telegram.
-
+يمكنك استخدامه في Replit ومحليًا.
 # يتبرع:
 
 [![AMP](https://img.shields.io/badge/AMP-0x39586560E53DCA08d124B0e064f3c62C5d3099da-500050?style=for-the-badge&logo=amp&logoColor=white)](https://etherscan.io/address/0x39586560E53DCA08d124B0e064f3c62C5d3099da)
