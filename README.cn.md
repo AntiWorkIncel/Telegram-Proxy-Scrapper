@@ -11,6 +11,8 @@ Telegram 上的机器人从两个 API 返回 SOCKS5 和 MTProto 代理。机器�
 
 我制作了这个机器人，这样我就不再需要加入 Telegram 上的代理组了。
 
+您可以在 Replit 和本地使用它。
+
 # 捐:
 
 [![AMP](https://img.shields.io/badge/AMP-0x39586560E53DCA08d124B0e064f3c62C5d3099da-500050?style=for-the-badge&logo=amp&logoColor=white)](https://etherscan.io/address/0x39586560E53DCA08d124B0e064f3c62C5d3099da)
