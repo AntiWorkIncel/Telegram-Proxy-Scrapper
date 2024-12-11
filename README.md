@@ -11,6 +11,8 @@ Bot on Telegram that returns SOCKS5 and MTProto proxies from two APIs. The bot i
 
 I made this bot so I no longer need to join proxy groups on Telegram.
 
+You can use it both in Replit and locally.
+
 # Donate:
 
 [![AMP](https://img.shields.io/badge/AMP-0x39586560E53DCA08d124B0e064f3c62C5d3099da-500050?style=for-the-badge&logo=amp&logoColor=white)](https://etherscan.io/address/0x39586560E53DCA08d124B0e064f3c62C5d3099da)
