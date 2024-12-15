@@ -48,6 +48,16 @@
 https://windscribe.com/yo/m4h56k39
 
 https://pr.tn/ref/F6YFAT9TFMJG (ستحصل على شهر مجاني من ProtonMail Plus إذا استخدمت هذا)
+
+https://xeovo.com/?r=WtK9cXCftFZH
+
+https://manager.azirevpn.com/ref/5NDZ3w8dME
+
+https://nano-gpt.com/invite/XEYzRNfV
+
+https://smspool.net/?r=OXNAzImySS / OXNAzImySS
+
+https://smspva.com/?ref=732668
 ## متطلبات
 - Python 3.x
 - `python-telegram-bot` library
