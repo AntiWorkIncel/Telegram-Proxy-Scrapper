@@ -45,7 +45,7 @@ Você pode usá-lo tanto no Replit quanto localmente.
 
 <a href="https://airvpn.org/?referred_by=722312" title="Air VPN - The air to breathe the real Internet"><img src="https://airvpn.org/images/promotional/banner_641x91.gif" alt="Air VPN - The air to breathe the real Internet"></a>
 
-https://windscribe.com/yo/m4h56k39
+https://windscribe.com/yo/m4h56k39 / FirstCubConspirator
 
 https://pr.tn/ref/F6YFAT9TFMJG (ganhará um mês grátis do ProtonMail Plus se usar este)
 
