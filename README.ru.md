@@ -47,6 +47,8 @@
 
 https://windscribe.com/yo/m4h56k39
 
+https://pr.tn/ref/F6YFAT9TFMJG (вы получите один месяц бесплатной подписки на ProtonMail Plus, если воспользуетесь этим)
+
 ## Требования
 - Python 3.x
 - `python-telegram-bot` library
