@@ -7,8 +7,6 @@
 
 # Telegram Proxy Scrapper 🤖
 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)
-
 Bot no Telegram que retorna proxies SOCKS5 e MTProto de duas APIs. O bot indexa as listas de proxy pelo ping mais baixo.
 
 Fiz esse bot para não precisar mais entrar em grupos de proxy no Telegram.
@@ -50,6 +48,16 @@ Você pode usá-lo tanto no Replit quanto localmente.
 https://windscribe.com/yo/m4h56k39
 
 https://pr.tn/ref/F6YFAT9TFMJG (ganhará um mês grátis do ProtonMail Plus se usar este)
+
+https://xeovo.com/?r=WtK9cXCftFZH
+
+https://manager.azirevpn.com/ref/5NDZ3w8dME
+
+https://nano-gpt.com/invite/XEYzRNfV
+
+https://smspool.net/?r=OXNAzImySS / OXNAzImySS
+
+https://smspva.com/?ref=732668
 
 ## Requerimentos
 - Python 3.x
