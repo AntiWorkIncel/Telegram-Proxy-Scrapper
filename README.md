@@ -47,6 +47,8 @@ You can use it both in Replit and locally.
 
 https://windscribe.com/yo/m4h56k39
 
+https://pr.tn/ref/F6YFAT9TFMJG (you'll earn one month free of ProtonMail Plus if you use this one)
+
 ## Requirements
 - Python 3.x
 - `python-telegram-bot` library
