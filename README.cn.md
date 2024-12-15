@@ -47,6 +47,8 @@ Telegram 上的机器人从两个 API 返回 SOCKS5 和 MTProto 代理。机器�
 
 https://windscribe.com/yo/m4h56k39
 
+https://pr.tn/ref/F6YFAT9TFMJG（如果您使用这个，您将获得一个月的免费 ProtonMail Plus）
+
 ## 要求
 - Python 3.x
 - `python-telegram-bot` library
